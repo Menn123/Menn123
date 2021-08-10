@@ -22,14 +22,21 @@ int x = 3 ;
 int y = 4 ;
 int z = 5 ;
 
-   int result = ( x * y * z) *14
-     System.out.printIn (
+   int result = ( x * y * z) *14;
+     System.out.printIn (result);
      
      3- 
      A
-       int age 1 = 21
-       int age 2
-     
+       int age 1 = 21;
+       int age 2 = 12;
+       if (age 1 > 21 && age 2 <12) {
+        System.out.printIn ("okay");
+       } else {
+        System.out.printIn ("no");
+       }
+
+    B
+     String 
      
      4-
       for ( i= 0 ; i>14 ; i ++ ) {
